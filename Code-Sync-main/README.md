@@ -215,7 +215,7 @@ This project is licensed under the [MIT License](LICENSE).
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <img src="https://github.com/" width="120px;" alt="Sahil Atahar"/>
+        <img src="https://github.com/" width="120px;" alt="Smit"/>
         <br />
         <b>Smit</b>
       </td>
